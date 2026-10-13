@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+*.log
+target/
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+k8s/config-secret.yaml
